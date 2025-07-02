@@ -18,9 +18,3 @@
 - Step 6 - `./gradlew optimizeddockerPrepareContext`
 
 `docker buildx build -f DockerfileNative -t micronuat-0.1 .` // micronuat-0.1 is the image name
-
-
-#### Health check 
-https://ramsaycompanion-ppe.ramsayhealth-gcp.com.au/ramsay-companion-outlookaddin/health
-or
-https://ramsaycompanion-ppe.ramsayhealth-gcp.com.au/ramsay-companion-outlookaddin/health/liveness
